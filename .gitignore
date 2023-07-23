@@ -14,7 +14,7 @@ public/stats.json
 /uploads/
 *.jsonl
 /config.conf
-/docker/config
+/docker/config.conf
 .DS_Store
 public/settings.json
 /thumbnails
